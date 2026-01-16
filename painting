@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Painting</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: serif;
+      background-color: #f8f8f6;
+      color: #222;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 10vh auto;
+      padding: 0 5vw;
+    }
+
+    img {
+      width: 100%;
+      margin-bottom: 5vh;
+    }
+
+    p {
+      line-height: 1.6;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <img src="your-image.jpg" alt="Painting work">
+
+    <p>
+      Short text about this work.  
+      Calm. Optional.  
+    </p>
+  </div>
+
+</body>
+</html>
 
